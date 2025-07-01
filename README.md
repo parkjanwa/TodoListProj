@@ -1,3 +1,7 @@
+# 🌱 Todo App - React + Tailwind CSS
+처음엔 일반 css로 구현하고 Tailwind를 사용하여 다시 스타일링을 하였습니다.
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
