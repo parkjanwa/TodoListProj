@@ -1,0 +1,7 @@
+/* 테일윈드 공홈에서 넣으라고 한거 */
+@import "tailwindcss";
+
+/* index.css -> 지피티가 넣으라고 한거 */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
