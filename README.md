@@ -2,15 +2,20 @@
 처음엔 일반 css로 구현하고 Tailwind를 사용하여 다시 스타일링을 하였습니다.
 
 
-# React + Vite
+# 피드백
+코드는 대략적으로 확인 했고 피드백이랑 TODO만 편하게 보세요
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+다음 스텝입니다
 
-Currently, two official plugins are available:
+최상위 경로에 .env 파일을 생성합니다
+.env 파일에 검색을 해보고 어떤 용도의 파일인지 확인을 합니다.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- supabase 가입을 합니다.
+- supabase 테이블 만들고 데이터 생성 후 계정 연동
+- 테이블에 생성한 데이터 리스트 컴포넌트에 출력
+- 테이블에 데이터 추가를 하는 기능
+- 테이블에 테이터 삭제를 하는 기능
 
-## Expanding the ESLint configuration
+위 5개를 해오세요
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+배포는 추후 같이 합시다 
